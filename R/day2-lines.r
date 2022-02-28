@@ -46,16 +46,16 @@ ggdraw(xlim = c(0, 1), ylim = c(0, 1))  +
     theme(
         plot.background = element_rect(fill = "#242c34")
     ) +
-    draw_label(label = lab_c[1], x = 0.55, y = 0.85, color = c_color[1], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
-    draw_label(label = lab_c[2], x = 0.55, y = 0.79, color = c_color[2], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
-    draw_label(label = lab_c[3], x = 0.55, y = 0.73, color = c_color[3], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
-    draw_label(label = lab_c[4], x = 0.55, y = 0.67, color = c_color[4], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
-    draw_label(label = lab_c[5], x = 0.55, y = 0.61, color = c_color[5], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
+    draw_label(label = lab_c[3], x = 0.55, y = 0.85, color = c_color[4], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
+    draw_label(label = lab_c[1], x = 0.55, y = 0.79, color = c_color[1], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +    # draw_label(label = lab_c[1], x = 0.55, y = 0.85, color = c_color[1], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
+    draw_label(label = lab_c[2], x = 0.55, y = 0.73, color = c_color[3], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
+    draw_label(label = lab_c[4], x = 0.55, y = 0.6169, color = c_color[2], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
+    draw_label(label = lab_c[5], x = 0.55, y = 0.67, color = c_color[5], fontfamily = font1,hjust = 0, fontface = "bold", size = 55) +
     draw_label(
-        label = "Cuencas hidrograficas del Perú (Amazonas)\n#30DayMapChallenge | Day 2: Lines\nData: ANA | Created by @JhonKevinFlore1"
+        label = "Cuencas hidrograficas del Perú (UH Amazonas)\n#30DayMapChallenge | Day 2: Lines\nData: ANA | Created by @JhonKevinFlore1"
         , lineheight = .3
         , color = "white"
-        , x = .9
+        , x = .92
         , y = .08
         , hjust = 1
         , fontfamily = font1
