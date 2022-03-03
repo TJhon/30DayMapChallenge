@@ -10,7 +10,9 @@ save_plot <- function(plot, name, w = 13, h = 12.8){
 }
 
 
+
 f_c <- function(day){
     pth_day <- here::here("R", paste0("day", day, ".r"))
     fs::file_create(pth_day)
 }
+message("f_c: day{name-}.r")
