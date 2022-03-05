@@ -12,4 +12,5 @@ output: github_document
     <a href="https://raw.githubusercontent.com/TJhon/30DayMapChallenge/main/plots/day5.png"><img src="plots/day5.png" height="350"/><a />
     <a href="https://raw.githubusercontent.com/TJhon/30DayMapChallenge/main/plots/day6-8.gif"><img src="plots/day6-8.gif" height="350"/><a />
     <a href="https://raw.githubusercontent.com/TJhon/30DayMapChallenge/main/plots/day9.png"><img src="plots/day9.png" height="350"/><a />
+    <a href="https://raw.githubusercontent.com/TJhon/30DayMapChallenge/main/plots/day10.png"><img src="plots/day10.png" height="350"/><a />
 </p>
